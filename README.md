@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b7566&height=200&section=header&text=LEE-JUNMO&fontSize=50&fontAlign=25&fontAlignY=40&desc=@ezurno&fontColor=F1F1F1&descAlignY=60&descAlign=88&" />
 
-  <h3>📚 Stack 📚</h3>
+  <h3>📚 Stacks 📚</h3>
   <br>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
