@@ -38,6 +38,7 @@
   <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZurno&theme=nord&show_icons=true)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezurno&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   [![Solved.ac
 ezurno](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/ezurno)
