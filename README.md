@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-	<img src="https://img.shields.io/badge/styled-Components-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white"/>
+	<img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-Components&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -29,7 +29,7 @@
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=React-Query&logoColor=white" />
 
   
 
