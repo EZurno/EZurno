@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3F8CF2?style=for-the-badge&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=React-Query&logoColor=white" />
+
 
 	
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
@@ -32,7 +34,6 @@
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=React-Query&logoColor=white" />
 
   
 
