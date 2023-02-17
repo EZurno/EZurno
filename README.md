@@ -26,7 +26,6 @@
 	
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
   
   <br>
   <br>
@@ -41,7 +40,7 @@
   <br>
   <br>
   <h3>⚙️ Tools 🛠️</h3>
-  <img src="https://img.shields.io/badge/InteliJ-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
