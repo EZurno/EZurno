@@ -53,8 +53,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZurno&theme=nord&show_icons=true)
   <br>
-  [![Solved.ac
-ezurno](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/ezurno)
+<!--   [![Solved.ac
+ezurno](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/ezurno) -->
 </div>
 
 
