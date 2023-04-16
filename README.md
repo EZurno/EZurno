@@ -52,10 +52,9 @@
   <br>
   
   <br>
-  [![Solved.ac
-ezurno](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/ezurno)
-	<br/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZurno&theme=nord&show_icons=true)
+  [![Solved.ac/ezurno](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/ezurno)]
+  <br/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZurno&theme=nord&show_icons=true)]
 	
 </div>
 
