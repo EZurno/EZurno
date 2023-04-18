@@ -53,7 +53,7 @@
   
   <br>
 	
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ezurno)](https://solved.ac/{handle})	
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ezurno)](https://solved.ac/{handle})	
 	
   <br/>
 	
