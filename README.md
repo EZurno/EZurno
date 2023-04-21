@@ -3,6 +3,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b7566&height=200&section=header&text=LEE-JUNMO&fontSize=50&fontAlign=25&fontAlignY=40&desc=@ezurno&fontColor=F1F1F1&descAlignY=60&descAlign=88&" />
+	
+	
+	
+<h1> I WANNA BE FRONT-END DEVELOPER </h1>
 
   <h3>📚 Stacks 📚</h3>
   <br>
