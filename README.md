@@ -6,7 +6,7 @@
 	
 	
 	
-<h1> I WANNA BE FRONT-END DEVELOPER </h1>
+<h1> I WANNA BE FRONT-END DEVELOPER ⭐</h1>
 
   <h3>📚 Stacks 📚</h3>
   <br>
