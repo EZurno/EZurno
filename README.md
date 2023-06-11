@@ -32,7 +32,6 @@
   
   
   <br>
-  <br>
   <h3>📖 I'm going to learn it 📖</h3>
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
@@ -44,9 +43,6 @@
 
 
   
-
-  
-  <br>
   <br>
   <h3>⚙️ Tools 🛠️</h3>
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
@@ -55,6 +51,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
+
 
   <br>
   <br>
