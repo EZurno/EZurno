@@ -50,6 +50,7 @@
   
   <br>
   <h3>⚙️ Tools 🛠️</h3>
+  <br>
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <br/>
