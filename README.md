@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junmo Lee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend-developer from Earth 🌏</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezurno&label=Profile%20views&color=0e75b6&style=flat" alt="ezurno" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://ezurno.github.io](https://ezurno.github.io)
 
-- 💬 Ask me about **react, typescript**
+- 💬 Ask me about **React, Typescript**
 
 - 📫 How to reach me **ezurno@gmail.com**
 
@@ -45,8 +45,10 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezurno&show_icons=true&locale=en&layout=compact" alt="ezurno" /></p>
+ <h3 align="left">📈 my github stats</h3>
+<br />
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="ezurno" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="ezurno" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezurno&show_icons=true&locale=en" alt="ezurno" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezurno&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ezurno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezurno&" alt="ezurno" /></p>
